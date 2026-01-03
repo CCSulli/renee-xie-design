@@ -106,7 +106,6 @@ main {
   left: 0;
   display: inline-flex;
   border-bottom: 3px solid;
-  margin-bottom: 29px;
 }
 
 .project-link a:hover {
@@ -317,6 +316,10 @@ figcaption {
 
 .proj-link:hover {
   transition: all 0.3s;
+}
+
+.portfolio-list project-list {
+  margin-bottom: 29px;
 }
 
 /***************************************** Footer */
