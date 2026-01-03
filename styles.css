@@ -37,6 +37,10 @@ a:hover {
   transition: all 200ms ease-in;
 }
 
+.portfolio-list .project-link {
+  margin-bottom: 29px !important;
+}
+
 /***************************************** Head Style */
 
 header {
@@ -306,10 +310,6 @@ figcaption {
   width: 400px;
   flex-basis: 30%;
   flex: 1;
-}
-
-.portfolio-list project-link {
-  margin-bottom: 29px !important;
 }
 
 .proj-link {
