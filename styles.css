@@ -308,8 +308,8 @@ figcaption {
   flex: 1;
 }
 
-.portfolio-list proj-link {
-  margin-bottom: 29px;
+.portfolio-list project-link {
+  margin-bottom: 29px !important;
 }
 
 .proj-link {
