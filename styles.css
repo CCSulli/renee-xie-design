@@ -318,7 +318,7 @@ figcaption {
   transition: all 0.3s;
 }
 
-.portfolio-list project-list {
+.portfolio-list project-link {
   margin-bottom: 29px;
 }
 
