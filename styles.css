@@ -308,6 +308,10 @@ figcaption {
   flex: 1;
 }
 
+.portfolio-list proj-link {
+  margin-bottom: 29px;
+}
+
 .proj-link {
   font-size: 20px;
   font-weight: 400;
@@ -318,9 +322,6 @@ figcaption {
   transition: all 0.3s;
 }
 
-.portfolio-list project-link {
-  margin-bottom: 29px;
-}
 
 /***************************************** Footer */
 
